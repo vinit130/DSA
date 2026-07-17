@@ -1,0 +1,14 @@
+Problem: Two Sum
+
+1. Date:
+17 July 2026
+
+2. New Concept Learned:
+- Returning arrays: new int[]{i, j}
+- Java is case-sensitive.
+- Arrays cannot be printed directly.
+
+3. Mistakes I Made:
+- Wrote return (i, j)
+- Forgot the final return statement.
+- forgot to make object of custom class
